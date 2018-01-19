@@ -1,0 +1,34 @@
+package br.com.crud.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Service;
+
+import br.com.crud.model.Client;
+import br.com.crud.service.ClientService;
+
+@Controller
+public class ClientController {
+	
+	@Autowired
+	private ClientService service;
+	
+	
+	public void save (Client client) {
+		service.save(client);
+	}
+	public void remove (Long idclient) {
+		service.remove(idclient);
+	}
+	public List<Client> list (){
+		return service.list();
+	}	
+	public Client searchId (Long idclient) {
+		return service.searchId(idclient);
+	}
+	public void update (Client client) {
+		service.update(client);
+	}
+}

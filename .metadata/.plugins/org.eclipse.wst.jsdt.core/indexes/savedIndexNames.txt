@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\lab06usuario30\Documents\Jussara-sts\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1384967566.index
+3609091930.index
+1328229226.index
+997985684.index
+2322594433.index
+3307667343.index

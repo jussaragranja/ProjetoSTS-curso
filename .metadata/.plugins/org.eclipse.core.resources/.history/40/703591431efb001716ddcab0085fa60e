@@ -1,0 +1,15 @@
+package br.com.crud.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import br.com.crud.repository.ClientRepository;
+
+@Service
+public class ClientService {
+	
+	@Autowired
+	private ClientRepository repository;
+	
+
+}
