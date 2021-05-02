@@ -1,5 +1,0 @@
-package br.com.crud.repository;
-
-public interface ClientRepository {
-
-}
