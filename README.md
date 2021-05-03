@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Projeto desenvolvido durane curso de Spring ministrado no UNIESP Centro Universitário pelo professor @CarlosBarbosaFilho
+> Projeto desenvolvido durante o curso de Spring ministrado no UNIESP Centro Universitário pelo professor @CarlosBarbosaFilho
 
 ### ✨ [Spring](https://spring.io/)
 
